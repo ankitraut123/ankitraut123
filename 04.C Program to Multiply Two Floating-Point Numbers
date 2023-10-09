@@ -7,7 +7,7 @@ int main()
 
     product = a * b;
 
-    printf("Product = %.2lf", product);
+    printf("Product = %.2lf",product);
     
     return 0;
 }
